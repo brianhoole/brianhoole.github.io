@@ -24,6 +24,11 @@
         "network": "linkedin",
         "username": "brianjhoole",
         "url": "http://linkedin.com/in/brianjhoole"
+      },
+      {
+        "network": "techhui",
+        "username": "brianhoole",
+        "url": "http://www.techhui.com/profile/BrianHoole"
       }
     ]
   },
@@ -35,11 +40,6 @@
     },
     {
       "name": "Vehicle performance tuning",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Paintball",
       "keywords": [
       ]
     }
@@ -74,7 +74,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2017-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
