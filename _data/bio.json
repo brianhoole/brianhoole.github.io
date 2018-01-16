@@ -81,6 +81,26 @@
   ],
   "work": [
     {
+      "company": "Kapaa Auto Body",
+      "position": "Estimator",
+      "website": "http://www.kapaaautobody.com/",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Assess and estimate cost of repairs of collisions to motor vehicles. ",
+      "highlights": ["collision", "estimation", "assessment", "evaluation"
+      ]
+    },
+    {
+      "company": "City Fender & Body Svc. Ltd",
+      "position": "Office Manager",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
       "company": "",
       "position": "",
       "website": "",
@@ -91,7 +111,7 @@
       ]
     }
   ],
-  "volunteer": [
+ /* "volunteer": [
     {
       "organization": "",
       "website": "",
@@ -101,7 +121,7 @@
       "summary": "",
       "highlights": [
       ]
-    }
+  */  }
   ],
   "awards": [
     {
