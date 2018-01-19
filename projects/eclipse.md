@@ -13,8 +13,8 @@ labels:
 summary: Motor vehicle project encorporating modern technology with primitive mechanics. 
 ---
 
-<div class="ui medium rounded images">
-  <img class="ui image" src="../images/eclipse1.jpg">
+  <img class="ui medium floated rounded image" src="../images/eclipse1.jpg">
+<div class="ui small floated rounded images">
   <img class="ui image" src="../images/eclipse2.jpg">
   <img class="ui image" src="../images/eclipse3.jpg">
 </div>
