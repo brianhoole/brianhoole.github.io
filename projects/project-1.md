@@ -6,12 +6,13 @@ image: images/T-Mobile.jpg
 title: Mobile Advantage: T-Mobile Exclusive Dealer
 permalink: projects/mobileadvantage
 # All dates must be YYYY-MM-DD format!
-date: 2006-04-01
+date: 2006-04-01 - 2010-12-20
 labels:
   - Cellular Retail
   - Business Proprietorship 
   - System Building
   - Data Analytics
+  - Team Construction/Maintenance
 summary: Successfully initiated and maintained a T-Mobile sales business from 2006 - 2010 spanning multiple locations statewide. 
 ---
 
