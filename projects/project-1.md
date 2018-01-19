@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+published: true
 image: images/T-Mobile.jpg
 title: Mobile Advantage: T-Mobile Exclusive Dealer
 permalink: projects/mobileadvantage
