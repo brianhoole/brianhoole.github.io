@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/T-Mobile.jpg
+image: images/tmobile.jpg
 title: Mobile Advantage
 permalink: projects/mobileadvantage
 # All dates must be YYYY-MM-DD format!
@@ -14,6 +14,8 @@ labels:
   - Team Construction/Maintenance
 summary: Successfully initiated and maintained a T-Mobile sales business from 2006 - 2010 spanning multiple locations statewide. 
 ---
+
+<img class="ui medium right floated rounded image" src="../images/tmobile.jpg">
 
 Mobile Advantage was an exclusive dealership providing T-Mobile sales and service to clients throughout the island of Oahu. The business was founded in 2006 in a small kiosk of Windward Mall. Over the course of 4 years it grew to 5 locations including Mililani Town Center, Restaurant Row, Pioneer Plaza, and Pearlridge Shopping Center. Employment grew to a team of 35 people company wide. Due to contractral restructuring within T-Mobile, the company shut down in 2010.  
 
