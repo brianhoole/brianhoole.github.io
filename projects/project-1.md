@@ -1,9 +1,8 @@
 ---
 layout: project
 type: project
-published: true
 image: images/T-Mobile.jpg
-title: Mobile Advantage: T-Mobile Exclusive Dealer
+title: Mobile Advantage
 permalink: projects/mobileadvantage
 # All dates must be YYYY-MM-DD format!
 date: 2006-04-01 - 2010-12-20
