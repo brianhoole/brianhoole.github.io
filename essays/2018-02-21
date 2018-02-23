@@ -1,11 +1,13 @@
 ---
 layout: essay
 type: essay
-title: The Burden of Efficiency
+title: The Burden of Efficiency Excellence
 # All dates must be YYYY-MM-DD format!
 date: 2018-02-21
 labels:
   - UI Frameworks
   - HTML and CSS
 ---
+
+<img class="ui large float image" src="/images/framework1.jpg">
 
