@@ -13,11 +13,7 @@ labels:
 summary: Application construction for local food venue marketing  
 ---
 
-  <img class="ui medium rounded image" src="../images/eclipse1.jpg">
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/eclipse2.jpg">
-  <img class="ui image" src="../images/eclipse3.jpg">
-</div>
+  <img class="ui medium rounded image" src="../images/meteor1.jpg">
 
 The 1993 Mitsubishi Eclipse GSX was part of Chryslers' performance line of 2-door vehicles; also known as an Eagle Talon and Plymouth Laser. It came with an all wheel drive transaxle powered by a 2.0L turbocharged engine pushing a base 195hp. Though small, the vast amount of possibilities the engine can withstand without major modification makes the Eclipse a predominant candidate amongst performance tuners. 
 
