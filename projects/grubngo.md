@@ -13,9 +13,9 @@ labels:
 summary: Application construction for local food venue marketing  
 ---
 
-[Grub n' Go](https://grubngo.github.io/)
+[Grub n' Go](https://grubngo.github.io/) website.  
 
-[Grub n' Go App](http://grubngo.meteorapp.com/#/)
+[Grub n' Go](http://grubngo.meteorapp.com/#/) App.  
 
 As a fundamental need for survival, food is one of the few things needed to sustain life. Evolution has allowed us the luxury of having this necessity readily available with choices of ethnic type and minimal traveling to get it. A common dilemma that concerns both business owners and consumers around the University of Hawaii - Manoa is "where are these places"? 
 
