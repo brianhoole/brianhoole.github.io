@@ -29,12 +29,12 @@
   },
   "interests": [
     {
-      "name": "Software developement and efficiency",
+      "name": "Algorithm development and efficiency",
       "keywords": [
       ]
     },
     {
-      "name": "Vehicle performance tuning",
+      "name": "Automotive performance tuning",
       "keywords": [
       ]
     }
@@ -95,7 +95,7 @@
       "startDate": "2016-10-15",
       "endDate": "2017-01-01",
       "summary": "Assess and estimate repair costs of collisions to motor vehicles and sell repair contract to customer. Establish operational procedures, policies and technical support.",
-      "highlights": ["collision", "estimation", "assessment", "evaluation", "sales"
+      "highlights": ["collision", "Insurance", "assessment", "sales"
       ]
     },
     {
@@ -104,7 +104,7 @@
       "startDate": "2015-04-01",
       "endDate": "2015-12-23",
       "summary": "Assess and estimate repair costs of collisions to motor vehicles and sell repair contract to customer. Foster relationships with commercial clients, vendors and business parters. Achieved 74% increase in annual sales production raising company ranking from 13th to 2nd in the Hawaii with State Farm Insurance.",
-      "highlights": ["Insurance", "estimate"
+      "highlights": ["collision", "Insurance", "assessment", "sales"
       ]
     },
     {
