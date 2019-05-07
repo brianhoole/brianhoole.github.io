@@ -3,10 +3,10 @@
     "name": "Brian Hoole",
     "label": "Student",
     "picture": "https://brianhoole.github.io/images/20150516_214853.jpg",
-    "email": "hoole@hawaii.edu",
+    "email": "brianjhoole@gmail.com",
     "phone": "808-728-2153",
     "website": "https://brianhoole.github.io",
-    "summary": "I am studying for a B.S. in Computer Science with a Science Security focus in the Department of Information at the University of Hawaii. I expect to graduate in Spring, 2019.",
+    "summary": "Forward-thinker with high resourcefulness and efficiency, expanding upon 12 years of consultative sales experience and a career founded in business management and technology solutions. Quick learner, with strength in building relationships, and a passion for driving successes as a winning team.",
     "location": {
       "address": "P.O. Box 12015",
       "postalCode": "96828",
@@ -47,7 +47,8 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "python"
       ]
     },
     {
@@ -56,27 +57,27 @@
       "keywords": [
         "MacOS",
         "Windows",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++"
+        "Linux",
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2019)",
+      "area": "Computer Science | Security Science",
       "studyType": "B.S.",
       "startDate": "2017-09-01",
-      "endDate": "Present",
-      "gpa": "3.18",
-      "courses": [
-        "Japanese 202",
-        "Biology 350",
-        "Computer Science 212",
-        "Computer Science 311",
-        "Computer Science 314"
-      ]
+      "endDate": "2019-05-11",
+      "gpa": "3.50",
+    }, 
+    {
+      "institution": "Kapiolani Community College, Honolulu, HI",
+      "area": "Natural Sciences",
+      "studyType": "A.S.",
+      "startDate": "2017-01-07",
+      "endDate": "2018-12-20",
+      "gpa": "3.26",
     }
   ],
   "work": [
