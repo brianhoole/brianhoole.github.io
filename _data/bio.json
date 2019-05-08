@@ -65,15 +65,15 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science | Security Science",
-      "studyType": "Bachelor of Science",
+      "area": "Security Science",
+      "studyType": "Bachelor of Computer Science",
       "startDate": "2017-09-01",
       "endDate": "2019-05-11",
       "gpa": "3.50",
     }, 
     {
       "institution": "Kapiolani Community College, Honolulu, HI",
-      "area": "Natural Sciences",
+      "area": "",
       "studyType": "Associate of Natural Science",
       "startDate": "2017-01-07",
       "endDate": "2018-12-20",
