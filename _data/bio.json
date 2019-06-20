@@ -69,7 +69,7 @@
       "studyType": "Bachelor of Computer Science",
       "startDate": "2017-09-01",
       "endDate": "2019-05-11",
-      "gpa": "3.50",
+      "gpa": "3.58",
     }, 
     {
       "institution": "Kapiolani Community College, Honolulu, HI",
@@ -88,7 +88,7 @@
       "startDate": "2019-01-22",
       "endDate": "present",
       "summary": "",
-      "highlights": ["Cyber Traffic Analysis", "Understanding Network Infrastructure", "Site Testing"
+      "highlights": ["Cyber Traffic Analysis", "Network Infrastructure", "Site Testing", 
       ]
     },
     {
